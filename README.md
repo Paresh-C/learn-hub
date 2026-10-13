@@ -6,8 +6,8 @@
 
 **INDEX**
 
-1. Joining a codebase: the first month
-2. Refactor vs Boy Scout Rule in legacy code (and other rules worth knowing)
+1. [Joining a codebase: the first month](./docs/1-joining-a-codebase-the-first-month.md)
+2. [Refactor vs Boy Scout Rule in legacy code (and other rules worth knowing)](./docs/2-refactor-vs-boy-scout-rule.md)
 3. Git and GitLab workflow
 4. Code review culture
 5. CI/CD and linter
@@ -36,3 +36,7 @@
 28. Reasoning and fallacies
 29. VS Code extensions and shortcuts
 30. Roadmap and pitfalls
+
+---
+
+> MR (Merge Requests) in GitLab = PR (Pull Requests) in GitHub
