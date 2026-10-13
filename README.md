@@ -36,3 +36,7 @@
 28. Reasoning and fallacies
 29. VS Code extensions and shortcuts
 30. Roadmap and pitfalls
+
+---
+
+> MR (Merge Requests) in GitLab = PR (Pull Requests) in GitHub
