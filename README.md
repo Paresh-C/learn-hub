@@ -30,12 +30,13 @@
 22. [Legacy code, technical debt and disposable code](./docs/22-legacy-code-technical-debt-disposable-code.md)
 23. [Project management and agile](./docs/23-project-management-and-agile.md)
 24. [Principles of meetings](./docs/24-principles-of-meetings.md)
-25. Task descriptions and end-of-day time reports
-26. Why communication in English matters
-27. AI workflow and working with agents
-28. Reasoning and fallacies
-29. VS Code extensions and shortcuts
-30. Roadmap and pitfalls
+25. [Task descriptions and end-of-day time reports](./docs/25-task-descriptions.md)
+26. [Why communication in English matters](./docs/26-communication-in-english.md)
+27. [AI workflow and working with agents](./docs/27-ai-workflow-and-working.md)
+28. [Reasoning and fallacies](./docs/28-reasoning-and-fallacies.md)
+29. [Soft skills for engineers](./docs/29-soft-skills.md)
+30. [VS Code extensions and shortcuts](./docs/30-vscode-extensions-shortcuts.md)
+31. [Roadmap and pitfalls](./docs/31-roadmap-and-pitfalls.md)
 
 ---
 
